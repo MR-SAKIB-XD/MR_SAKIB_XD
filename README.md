@@ -3,6 +3,6 @@
 
 git clone https://github.com/MR-SAKIB-XD/MR_SAKIB_XD/blob/main/README.md
 
-cd Sakib-Xd
+cd SAKIB-XD
 
 python Sakib-Xd.py
